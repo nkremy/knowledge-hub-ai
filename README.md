@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Knowledge Hub AI
 
-## Getting Started
+> Une plateforme moderne de gestion documentaire alimentée par Google Gemini.
 
-First, run the development server:
+## 📖 Présentation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Knowledge Hub AI est une plateforme web moderne conçue pour centraliser, organiser et exploiter efficacement des documents grâce à l'intelligence artificielle de Google Gemini.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Le projet a pour objectif d'aller au-delà du simple stockage de fichiers en proposant des fonctionnalités intelligentes permettant de rechercher rapidement des informations, d'obtenir des résumés automatiques et de faciliter l'exploitation des connaissances contenues dans les documents.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Cette plateforme est pensée pour offrir une expérience utilisateur moderne, sécurisée et évolutive.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Objectifs
 
-To learn more about Next.js, take a look at the following resources:
+Les principaux objectifs du projet sont :
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Centraliser les documents au sein d'une plateforme unique.
+* Simplifier l'organisation et la gestion des connaissances.
+* Exploiter Google Gemini pour analyser et résumer les documents.
+* Améliorer la recherche d'informations grâce à l'intelligence artificielle.
+* Concevoir une architecture moderne, performante et évolutive.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Fonctionnalités prévues
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Les fonctionnalités suivantes seront développées progressivement :
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Authentification et gestion des utilisateurs.
+* Import et gestion des documents.
+* Organisation par catégories.
+* Recherche intelligente.
+* Résumé automatique des documents avec Google Gemini.
+* Consultation et téléchargement des documents.
+* Tableau de bord utilisateur.
+* Gestion des profils et des permissions.
+
+> **Remarque :** cette liste représente les fonctionnalités prévues et pourra évoluer au cours du développement.
+
+---
+
+## 🛠️ Technologies
+
+Le projet sera développé avec les technologies suivantes :
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+
+### Backend
+
+* Node.js
+* API REST
+
+### Base de données
+
+* PostgreSQL
+
+### Intelligence artificielle
+
+* Google Gemini
+
+### Outils
+
+* Git
+* GitHub
+
+---
+
+## 📂 Organisation du projet
+
+L'architecture du projet sera mise en place progressivement au cours du développement.
+
+---
+
+## 📈 État du projet
+
+🚧 **Projet actuellement en cours de développement.**
+
+Cette première version du dépôt correspond à l'initialisation du projet et à la mise en place de son environnement de développement.
+
+---
+
+## 📄 Licence
+
+Ce projet est distribué sous la licence MIT. Consultez le fichier **LICENSE** pour plus d'informations.
