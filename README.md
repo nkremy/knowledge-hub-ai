@@ -16,11 +16,11 @@ Cette plateforme est pensée pour offrir une expérience utilisateur moderne, s�
 
 Les principaux objectifs du projet sont :
 
-* Centraliser les documents au sein d'une plateforme unique.
-* Simplifier l'organisation et la gestion des connaissances.
-* Exploiter Google Gemini pour analyser et résumer les documents.
-* Améliorer la recherche d'informations grâce à l'intelligence artificielle.
-* Concevoir une architecture moderne, performante et évolutive.
+- Centraliser les documents au sein d'une plateforme unique.
+- Simplifier l'organisation et la gestion des connaissances.
+- Exploiter Google Gemini pour analyser et résumer les documents.
+- Améliorer la recherche d'informations grâce à l'intelligence artificielle.
+- Concevoir une architecture moderne, performante et évolutive.
 
 ---
 
@@ -28,14 +28,14 @@ Les principaux objectifs du projet sont :
 
 Les fonctionnalités suivantes seront développées progressivement :
 
-* Authentification et gestion des utilisateurs.
-* Import et gestion des documents.
-* Organisation par catégories.
-* Recherche intelligente.
-* Résumé automatique des documents avec Google Gemini.
-* Consultation et téléchargement des documents.
-* Tableau de bord utilisateur.
-* Gestion des profils et des permissions.
+- Authentification et gestion des utilisateurs.
+- Import et gestion des documents.
+- Organisation par catégories.
+- Recherche intelligente.
+- Résumé automatique des documents avec Google Gemini.
+- Consultation et téléchargement des documents.
+- Tableau de bord utilisateur.
+- Gestion des profils et des permissions.
 
 > **Remarque :** cette liste représente les fonctionnalités prévues et pourra évoluer au cours du développement.
 
@@ -47,27 +47,27 @@ Le projet sera développé avec les technologies suivantes :
 
 ### Frontend
 
-* Next.js
-* React
-* TypeScript
+- Next.js
+- React
+- TypeScript
 
 ### Backend
 
-* Node.js
-* API REST
+- Node.js
+- API REST
 
 ### Base de données
 
-* PostgreSQL
+- PostgreSQL
 
 ### Intelligence artificielle
 
-* Google Gemini
+- Google Gemini
 
 ### Outils
 
-* Git
-* GitHub
+- Git
+- GitHub
 
 ---
 
